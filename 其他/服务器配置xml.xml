@@ -1,0 +1,53 @@
+<!-- 开发服务器配置 -->
+<?xml version="1.0" encoding="UTF-8"?>
+<FileZilla3 version="3.20.1" platform="windows">
+	<Servers>
+		<Server>
+			<Host>172.16.1.25</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>root</User>
+			<Pass encoding="base64">JXtlLGUsJW8+fmgnMTIx</Pass>
+			<Logontype>1</Logontype>
+			<TimezoneOffset>0</TimezoneOffset>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>0</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>stbl.dev</Name>
+			<Comments />
+			<Colour>0</Colour>
+			<LocalDir />
+			<RemoteDir />
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>stbl.dev</Server>
+	</Servers>
+</FileZilla3>
+
+<!-- 测试服务器配置 -->
+<?xml version="1.0" encoding="UTF-8"?>
+<FileZilla3 version="3.20.1" platform="windows">
+	<Servers>
+		<Server>
+			<Host>172.16.1.26</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>root</User>
+			<Pass encoding="base64">JXtlLGUsJW8+fmgnMTIx</Pass>
+			<Logontype>1</Logontype>
+			<TimezoneOffset>0</TimezoneOffset>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>0</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>test新</Name>
+			<Comments />
+			<Colour>0</Colour>
+			<LocalDir />
+			<RemoteDir />
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>test新</Server>
+	</Servers>
+</FileZilla3>
